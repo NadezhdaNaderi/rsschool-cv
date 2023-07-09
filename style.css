@@ -1,0 +1,24 @@
+.one{
+    line-height: 2.5;
+}
+.two{
+    letter-spacing: 5px;
+    text-decoration: overline;
+    line-height: 2rem;
+}
+.three{
+    word-spacing: 20px;
+    text-decoration: underline;
+}
+h1{
+    text-transform: lowercase;
+    text-decoration: line-through;
+}
+body{
+    text-transform: uppercase;
+}
+a{
+    font-size: 40px;
+    text-decoration: none;
+    color: blueviolet;
+}
